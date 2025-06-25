@@ -73,9 +73,9 @@ mysql -u root -p gestion_de_projet < gestion_de_projet.sql
 
 ## 📸Screenshots : 
 ![Login ](public/images/Capture0.jpg)
-![Admin - Projects](public/images/Capture44.PNG)
-![Admin - Taches ](public/images/Capture55.PNG)
-![Admin - Employees ](public/images/Capture1.PNG)
-![Manager - Projects ](public/images/Capture12.PNG)
-![Membre - Tasks ](public/images/Capture11.PNG)
+![Admin - Projects](images/Capture44.PNG)
+![Admin - Taches ](images/Capture55.PNG)
+![Admin - Employees ](images/Capture1.PNG)
+![Manager - Projects ](images/Capture12.PNG)
+![Membre - Tasks ](images/Capture11.PNG)
 
