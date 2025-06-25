@@ -1,4 +1,4 @@
-# 📁 Project Management System
+# 📁 Project Management Platform
 
 This is a web-based **project and task management platform** built with **PHP**, **MySQL**, and **TailwindCSS**. It enables teams to collaborate on projects, assign tasks, manage roles and permissions, comment on tasks, and track project progress with notification support.
 
@@ -69,7 +69,7 @@ mysql -u root -p gestion_de_projet < gestion_de_projet.sql
 
 
 ## 👤 Author
-**Mohammed Salhi** - [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=mohammedsalhisam@gmail.com&su=Inquiry%20about%20Project%20Management%20System)
+**Mohammed Salhi** - [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=mohammedsalhisam@gmail.com&su=Inquiry%20about%20Project%20Management%20Platform)
 
 ## 📸Screenshots : 
 ![Login ](images/Capture0.PNG)
