@@ -72,7 +72,7 @@ mysql -u root -p gestion_de_projet < gestion_de_projet.sql
 **Mohammed Salhi** - [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=mohammedsalhisam@gmail.com&su=Inquiry%20about%20Project%20Management%20System)
 
 ## 📸Screenshots : 
-![Login ](public/images/Capture0.PNG)
+![Login ](images/Capture0.PNG)
 ![Admin - Projects](images/Capture44.PNG)
 ![Admin - Taches ](images/Capture55.PNG)
 ![Admin - Employees ](images/Capture1.PNG)
